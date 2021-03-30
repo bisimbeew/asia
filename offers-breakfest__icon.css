@@ -1,0 +1,8 @@
+.offers-breakfest {
+  background-image: url('./img/meal.jpg');
+}
+
+.offers-breakfest__icon{
+  width: 36px;
+  height: 26px;
+}
