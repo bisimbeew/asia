@@ -1,0 +1,24 @@
+.deal__info {
+
+}
+
+.deal__info {
+  display: flex;
+  align-items: center;
+}
+
+.deal-info__icon {
+  width: 26px;
+  height: 26px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: 1rem;
+}
+
+.deal-info--calendar .deal-info__icon {
+  background-image: url('./img/calendar.png');
+}
+
+.deal-info--meal .deal-info__icon {
+  background-image: url('./img/meal.png');
+}
