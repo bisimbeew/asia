@@ -1,0 +1,11 @@
+.button--light {
+  display: inline-flex;
+  font-size: 14px;
+  border: 1px solid#F5170E;
+  border-radius: 35px;
+  color: #F5170E;
+  padding: 18px 40px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
